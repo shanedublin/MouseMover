@@ -4,7 +4,7 @@ When you close it it goes to the taks bar.
 The icon is transperent.
 
 ## Install
-Download and run the jar.
+Download and run the jar. [`Download Here!`](https://github.com/shanedublin/MouseMover/blob/master/MouseMover.jar)
 Note. You must have java installed.
 
 ## License
