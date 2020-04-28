@@ -9,6 +9,7 @@ import java.awt.Toolkit;
 import java.awt.TrayIcon;
 import java.awt.event.ActionListener;
 
+
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
